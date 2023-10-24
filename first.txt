@@ -4,8 +4,9 @@ Gitの練習をしていきます。
 ・git commit
 ・git rm 
 ・git status
-・git diff
-・git diff head
 ・git log
 ・git log --oneline
 ・git log -p index.html
+・git diff
+・git diff head
+・git 
